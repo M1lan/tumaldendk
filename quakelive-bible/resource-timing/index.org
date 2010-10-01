@@ -1,0 +1,131 @@
+
+
+
+
+
+
+
+
+
+
+
+
+* Wall
+* Quakelive_Bible
+
+
+
+Resource Timing (Expanding and controlling your advantages) *by chance
+
+Resources include items placed around the map that are designed to give you or
+your opponent an advantage. In most modes these include weapons, armor, health,
+quad, and other powerups. In Quake, it is essential that you time items to the
+second. First and foremost you'll be weighing enemy status with your status,
+but the ultimate goal of resource management is to effectively eliminate your
+opponents ability to gain any significant advantage.
+
+This means timing the most important items while simultaneously preventing your
+opponent from getting them. This also means what items you can not time you
+need to be mindful of as well. If you know they don't have the Lightning Gun
+(LG) but you do, not only will you try to force mid-range fights where you have
+the damage advantage, you will also want to prevent them from getting the LG so
+you can continue control area's of the map that are best suited for its use.
+The same goes for rockets (close range) and rail (long range). As you can see,
+enemy status falls in to effect resource status, and vice versa.
+
+In duel, the advantage of the Megahealth and Red Armor are so great that you
+want to have each of them timed all game, every game. This is an area where a
+lot of players faulter. You can play mindlessly all day long and garner enough
+experience to eventually have a pretty solid lock on enemy status, but item
+timing is a whole other beast. It takes planning, forethought, careful
+execution and extreme intelligence. Experts say you need an IQ somewhere in the
+140's at least. Wait... really? No. Again - this isn't something that requires
+a lot of stress or effort. Like everything else it just requires conscious
+present awareness. Forethought itself only happens in the present moment. The
+future holds no significance. Just because you're timing something does not
+mean you are focusing on the future. All timing requires is presence and the
+ability to add. The important thing to remember here is to time to the second.
+
+What I often do is simply repeat ":16, :16, :16" in my head and if I have Mega
+and RA timed I repeat the RA time too, ":16, :23, :16, :23..." Keep in mind
+that its not necessary to time like this if you are good at remembering when it
+spawns without it. I generally have trouble timing without repeating the
+numbers if I haven't been playing in awhile or I'm distracted (either by
+physical external things or just mental noise).
+
+It may also help you to time them out loud. I recall sitting behind Paul "CZM"
+Nelson and hearing him chant the spawn times for RA and MH like a quake item
+conjurer after he said in the game prior he was having trouble timing.
+Sometimes I'll get confused and mix up which items are spawning in which order,
+especially when mega is spawning before RA (because mega usually spawns after
+RA). For example I'll be repeating ":26, :30, :26, :30" in my head but the item
+I think is going to spawn at :26 is actually spawning at :30 and vice versa, so
+it may be helpful to remember to emphasise the next coming item in your head
+first and foremost.
+
+As we said before, in order to maximize any advantage you gain from picking up
+a resource you must time it. Of course this will not be possible with every
+item, not only because some items spawn in less than 5 seconds effectively
+rendering timing them meaningless, but also because there are often 20+ items
+per map and the average human being can only remember around 8 digits at a
+time.
+
+So why is timing a weakness for so many? Well for starters, many players
+experience heavy mental resistance to it, most often labeling it as a "less
+fun" aspect of the game. Other people are trapped in the illusion that its too
+effortful, and requires too much of their concentration or is beyond their
+intelligence. General lack of discipline is, however, the biggest problem.
+Mental wandering anyone? Too frustrated or impatient to remember the time?
+There's your lacking discipline.
+
+Item status, enemy status, and team status are an interconnected power struggle
+where the exact respawn times play a critical role. Megahealth respawns at :XX,
+red armor at :XX. You have XXX health+armor... You get the picture. Accuracy
+within these categories takes time and determination to master. Along the way,
+its a lot of fun. Brilliant plays start to emerge when both players become
+fully aware of the enemy status and item times. It's a game with RTS style
+resource management and Fighting game reflexes. The overlay of deception and
+punctuality unfolds a dynamic and eternally interesting genre of E-Sport. Every
+map has a unique architecture, powerup layout and weapon scheme. This sets the
+stage for a vast set of gameplay meta-memes and personal meme's just waiting to
+be uncovered.
+
+Perhaps in the future I'll write an article laying out the specific meta-
+strategies encountered on individual maps, but for now this marks the
+conclusion of the "what to do/think about in-game" section. From here, there's
+a few other things to consider pre-game and post-game.
+Aim (The most overthought skill in Quake.)
+Â 
+source www.myeg.net
+Write_a_comment
+
+0 Comments
+
+
+*  loading
+
+
+* Introduction
+* Discipline
+* Presence
+* Opponent_Awareness/Enemy_Status.
+* Resource_Timing
+* Aim
+* Motivation,_Attitude
+* Resolve.
+* DM14_-_Grim_Dungeons
+* OSPDM5_-_Deep_Inside
+* Unity's_personal_guide
+
+Â 
+Â 
+Â 
+Â 
+Â 
+
+
+          _free_counters_
+
+
+Imprint | _druckversion_print_version | Sitemap
+ Jimdo_logout | Edit

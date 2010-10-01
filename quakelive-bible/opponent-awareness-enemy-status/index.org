@@ -1,0 +1,167 @@
+
+
+
+
+
+
+
+
+
+
+
+
+* Wall
+* Quakelive_Bible
+
+
+
+Opponent Awareness/Enemy Status. (Mastering the raw data.) *by chance
+
+Whether you're playing Duel, Team Deathmatch, Clan Arena, Free for All, or even
+Counter-Strike for that matter - your awareness of the enemies status is huge.
+This is the part of the game that provides you with the information to make
+almost all of your decisions useful. I come from a Duel background, so for the
+most part I will explain this from a singular, one-player perspective rather
+than the plural, team-oriented perspective, but the same nonetheless applies to
+either mode.
+
+Your opponent has XXX health and armor (at maximum totalling up to 400), he is
+standing X,Y,Z on the map, with X weapons, and X ammo. The opponent is also
+moving at XXX units per second. These variables are life and death in the
+arena. The ability to contain this information accurately within your
+consciousness is the apex of your game. I can't stress this enough because when
+it comes down to winning or losing a frag - the most common thing a player does
+is --misread the situation and--- mistake some other feature for the reason it
+happened.
+
+For example: Player B goes through a doorway expecting Player A to have 25
+health, when really Player A has 125 because he just got the mega health. When
+Player B gets killed after landing a few beads of shaft he gets mad and blames
+his aim for not doing enough damage. The anger itself is an issue, but we'll
+get to that later. The misjudgement of enemy status is by a landslide the most
+common mistake players make, and if not immediately corrected here it has the
+potential to just domino.
+
+Any time a gap occurs in our intellect we immediately fill it with the most
+easily accessibly and most seemingly obvious reason, and if there is no obvious
+reason... we invent one! Creating a solution to fill the gap works well on a
+short term scale to alleviate a problem with the best solution we can come up
+with off hand, but eventually if the player leaves it unchecked his game's
+foundation is liable to become almost superstitious. Many times rather than
+filling the gaps with a logical guess to what may have happened players fill it
+with any answer that most conveniently protects their ego. Anger is likely
+indicative of the player trying to defend his sense of strength that he feels
+he is losing by being punished. Players that get stuck in ego will perpetually
+blame some inauspicious aspect of the game, continue letting problems chain
+together by answering them baselessly, and thus continue to be on the recieving
+end of the next fragger.
+
+The only way out of this is being honest with yourself and accepting the
+reality of the situation, which, I will tell you on the bright side is that you
+simply did not accurately read the information you were given. Why is that on
+the bright side? Because you no longer have your superstitions like "I just
+suck" to blame, you have real, tangible reasoning to tell you what went wrong,
+and how exactly to deal with it. We are all human, we all make mistakes. We
+need to remind ourselves that these mistakes can either bear fruit, or drag us
+to hell, depending on whether we accept our equality and subsequent mortality,
+or cling to ego and think somehow we deserve better or worse without first
+understanding more. It's the questions we can not answer that cause our
+suffering should we find ourselves in a situation where we are struggling.
+
+Once you have accurate awareness of the enemy's status, this is where the Art
+of War comes in. (<3 Sun Tzu) Now you can constantly balance your status
+against the enemy status, and move accordingly. If you have the advantage, you
+attack. At the disadvantage, you wait for your opponent to make a mistake or
+you retreat in order to gain more resources than your opponent.
+
+What about when your back is against the wall and you can't retreat? You're out
+of luck. The best way out of any sticky situation is to not get stuck there in
+the first place. If you're already in this situation you're forced rely on a
+miracle shot, opponent choke, luck, or some insight into your opponents
+fallibility to survive. This is the last thing you want to do. Good players
+will attempt to force you into this situation all game long. There's never a
+time when they want you to be prepared.
+Â 
+You always hear about successful athletes and gamers "visualizing" their
+success. I promise you they aren't visualizing having 2 health and hitting 5
+consecutive grenades for the win. They're seeing kills unfold realistically and
+effortlessly in their minds eye. Studies have shown visualization helps
+immensely in improving task completion. In fact, it's been shown that you can
+actually gain muscle by merely thinking about lifting weights. Try and keep
+your opponent contained in your minds eye throughout the game. And you don't
+just want to think about where they are, you want to literally contain them by
+limiting how they can expand around the map.
+
+The majority of the learning curve in any game comes from getting yourself into
+the right situations. The more experienced you are, the easier it becomes to
+make useful choices using the discrepency between your enemies status and your
+own, and the more meaningful every move you make becomes. I said it earlier and
+I'll say it again. Quake is a game about choices. From the second you spawn in,
+every single thing you do or even think about doing matters. Misinformed
+decisions lead to death. If you can't figure out immediately why you just lost
+or got fragged, go back and examine the replay afterwards. You need to
+understand what happened. (Hopefully one day we'll have easy-access demos that
+display enemy health, enemies through walls, and item times.)
+
+Enemy status is key, but make sure you're always paying attention to your own
+status (and your team if you're in a team mode). You might think you can take
+on 125 health joe newbie with his spawn shotty - but if you're not healthy
+enough and he's in close ducking behind pillars he's gonna drop you like a
+brick. I'm always suprising myself how often I go in to attack and look down
+and realize I've got 150 armor but only 12 health. It's a given that any time
+enemy status is considered, it should be weighed against your and your
+teammates statuses as well.
+
+The most difficult thing is gathering this information, and retaining it while
+playing. Saying that it's difficult is misleading, however, because this again
+isn't a stressful or demanding skill. It can be achieved with ease given time,
+discipline, and continual conscious presence. The idea of difficulty is purely
+psychological and arises when you resist your current situation or the "time"
+it takes to accomplish your desired result.
+
+Other insights reguarding enemy status can include player tendencies. If you've
+played a person enough times, or even in your first time playing a guy you can
+sometimes pick these up a few minutes in. You can use them to "get inside" your
+opponents head, putting damage on them when they're not expecting it - or
+taking the RA they always leave up when Mega spawns. Psychology can also play a
+role here. If you know your opponent is fatigued, you may be at an advantage.
+This isn't something you will want to learn to rely on, but it helps to be
+aware of it so when they're feeling peppy next time - you can expect they won't
+be cutting you the same slack.
+
+So I know where he is, I know how much health he's got and I'm totally with it.
+What else do I need to focus on? We'll discuss just that in the next part.
+Â 
+source www.myeg.net
+Write_a_comment
+
+0 Comments
+
+
+*  loading
+
+
+* Introduction
+* Discipline
+* Presence
+* Opponent_Awareness/Enemy_Status.
+* Resource_Timing
+* Aim
+* Motivation,_Attitude
+* Resolve.
+* DM14_-_Grim_Dungeons
+* OSPDM5_-_Deep_Inside
+* Unity's_personal_guide
+
+Â 
+Â 
+Â 
+Â 
+Â 
+
+
+          _free_counters_
+
+
+Imprint | _druckversion_print_version | Sitemap
+ Jimdo_logout | Edit

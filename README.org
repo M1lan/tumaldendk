@@ -1,0 +1,33 @@
+Let's help Cris out, shall we?
+
+* Get the content
+#+begin_src bash
+# Mirror the site's tree and change into local directory
+wget -m http://www.dothedk.com && cd www.dothedk.com/ 
+
+# Convert html to text. (The extension is ".org" instead of ".txt"
+# because I prefer to use Emacs and org-mode.)
+for i in $( find . -iname '*.html'); do html2text -style pretty -nobs -o ${i%.*}.org $i;done
+
+# Remove all other crap to get only the tree of directories and plain
+# text files
+find . -type f -iname *.html -delete
+rm -rf about robots.txt rss sitemap 
+find . -type d -iname '*back*' -print0 | xargs -0 rm -rf 
+#+end_src
+
+* Put the thing on GitHub
+Create a new repository on GitHub, choose a name, then do the
+following on the command line (from inside your local mirror
+directory) or follow the instructions on github:
+#+begin_src bash
+git init
+git add .
+git commit -m 'initial commit'
+git remote add origin git@github.com:GITHUB_USERNAME_HERE/repository_name_here.git
+# Might want create a working branch immediately
+git branch working
+git push origin master working
+#+end_src
+Start doing stuff, commit locally, push up changes, then see colored diff on github by
+other means.
