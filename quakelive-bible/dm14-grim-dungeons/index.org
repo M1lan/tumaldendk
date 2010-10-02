@@ -1,255 +1,148 @@
+#+TITLE:    Grim Dungeons - DM14
+#+AUTHOR:    
+#+EMAIL:     
+#+DATE:      
+#+DESCRIPTION: Grim Dungeons - DM14 Strategy Guide by dk
+#+KEYWORDS: 
+#+LANGUAGE:  en
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:nil skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+#+XSLT: 
 
+* DM14 Strategy Guide /by dk/
+  A map with many corners. This map is played in a campy way since DM14
+  is subdivided in 2 parts, and on both sides you have a more or less
+  the same amount of health, armor, weapons and powerups. This may sound
+  pretty easy to play, but don't jump to any conclusion just yet! A victory
+  on DM14 depends on you, and both your team's and your opponents
+  playing style and ability to control when the powerups are going to
+  spawn. DM14 is probably the map which needs the most tactical and
+  most careful thinking. A score difference of 10 Frags can be a lot on this map.
+* Items available
+** Weapons
+- 1 Shotgun (SG)
+- 1 Railgun (RG)
+- 1 Grenade Launcher (GL)
+- 1 Lightning Gun (LG)
+- 2 Rocket Launcher (RL)
 
+** Armors
+- 1 Red Armor (RA)
+- 2 Yellow Armor (YA)
+- 5 Shards
+** Powerups 
+- Battlesuit
+- Quad Damage
+* First in the RA room
+  *It is always good to start a game with an initial spawn in the Red Armor room.* 
+  Tell your mates that you have Red secure. They need to come quick and
+  help you! Red is the position you all want!
+** Why ?
+  1. You can save it easier if your team can hold the RA room
+  2. You have 100 armor + 25 extra (shards @ shotgun room)
+  3. You are right next to the Battlesuit
+  4. You can easily get to the Rail and save it
+  5. You have a total of 3 Weapons there (RL, RG, SG)
+  6. You can harass the enemy through the 3 entries to this room
 
+The RA room is subdivided into 4 sections. Save and hold them!
 
+** 1.
+A lot of times, a single enemy spawns in an abandoned RA room and steals
+RL and RA which means your team's advantage is getting smaller. Of course
+this is an extremely lucky situation for the other team but it happens
+all the time, believe me! Always have one in your team time and save
+the RA and pay attention not to give away the RL to enemy spawners!
 
+** 2.
+From this position, one can quickly grab the RA, help at shotgun
+or railgun, or kill enemies who come up from the jump pad.
 
+** 3.
+A really important position for the RA area, especially when the
+Battlesuit is about to spawn. Make sure you have RL! Enemies could try
+to get to BS though this area. But besides that, you have 25 extra
+armor and one weapon more! Keep it safe!!! If your team is stacked and
+you are at the shotgun, put some pressure towards quad, annoy the
+opponents, try to deny them the yellow armor or shaft, even if its only 1
+time BUT, as always, not by hook or by crook. Sometimes every frag /
+kill can be important but don't chase the enemy, keep your position.
 
+** 4.
+The 4th position is Rail, secure it and don't let the enemy get a Railgun!
 
+* Second in the RA room and lost?
+  Well, go into defense position and wait for the next powerup if Red is
+  totally Lost!  It is not that bad to lose Red, its only bad wasting
+  frags in trying to rush in. Keep those positions save and get back to
+  Red with the next Powerup.
 
+** 1.
+   The standard position is always 2 at Quad. One has to check shaft/ya
+   area in case enemy comes from there. The other has to check the
+   shotgun door.  Note: Saving QUAD has always priority over anything
+   else!!!
+   
+** 2.
+   Two guys are going down to the 2nd RL. Note: If the enemy has a
+   Railgun remember that you can get railed easily if you jump up and
+   that they are railing from shotgun.
 
+** 3.
+   Try to get the Railgun or at least to put some pressure on enemies
+   trying to save it there. Railgun and shaft are 2 really powerful
+   weapons to defend the Quad room.
 
+* Battlesuit time! 
+  Your team has Red safe? Get BS! The one who has the most armor is
+  going to get Battlesuit!!!  So decide it already as soon as
+  possible.  This is the best way to safe BS:
 
-* Wall
-* Quakelive_Bible
+** 1.
+   Save the Railgun! Why? If Enemy is there and they have a Rail they
+   can put pressure on BS and in the worst case they will shoot the
+   BS-runner down into the void.
 
+** 2.
+   Enemies will go through this Shotgun area and will try to get BS
+   through the hole! Its not easy to defend BS from an attack through
+   that hole and it is much easier to just grab the BS from
+   above. Another point is that the guy who is going to take BS needs
+   protection from his team so he doesn't lose any armor and health.
 
+** 3.
+   This position is equally important, save it before BS will spawn!
+   Enemy can come from lower RL and will try to get BS. Make sure you
+   have an RL: in case Rail is lost you can spam Rockets to Rail.
 
-Grim Dungeons - DM14
+** 4.
+   But save it by going down through the jump pad pipe at RA! This is
+   the fastest and easiest way to get there! A lot of people make the
+   mistake to go through that slit hole at the rear end and jumping
+   over the void at BS! Why ?! That way is much longer and you have
+   the risk that an enemy shoots you in the void.
 
-DM14 Strategy Guide *by dkÂ 
+** 5.
+   This is the way the Quadrunner is going to BS! NEVER go down 10 sec
+   too early!  Only in time for the BS, so get the BS timing!
 
-A map with many corners.This map is played in a campy way since DM14 is
-subdivided in 2 parts, and on both sites you have more or less equal health,
-armor und weapons and powerups.
-It sounds probably pretty easy to play but DM14 depends all about you, your
-Team and the opponents playingwhise and how the powerups are going to spawn.
-DM14 is probably the map wich needs the most tactics and careful thinking. 10
-Frags can be a lot on this map.
+   Note: In case one enemy gets killed and spawns at Red Armor, YOU
+   DON'T CARE! Try to protect yourself to get BS with the most armor
+   and health as possible.
 
-Items Available
-Â 
-Weapons
+* Quad time!  
+** 1.
+   This is how you are going to save Quad. 3 People need to be at
+   Quad. One has to always check the shaft / YA area. Watch out for
+   Railers who are putting pressure on your team from the shotgun
+   door. Get the grenade launcher and try to push them back.
 
-* 1 Shotgun (SG)
-* 1 Railgun ( RG )
-* 1 Grenade Launcher (GL)
-* 1 Lightning Gun (LG)
-* 2 Rocket Launcher (RL)
-
-Armors
-
-* 1 Red Armor (RA)
-* 2 Yellow Armor (YA)
-* 5 Shards
-
-Powerups
-Â 
-
-* Battlesuit
-* Quad
-
-Â 
-Â 
-First in the RA Room
-Â 
-It is always good starting in the Red Armor room.
-Â 
-Tell it your mates that you have Red. They need to come quick and help you !Â 
-
-Â Red is the position you want !
-Why ?
-
-  1. You can safe it easier
-  2. You have 100point Armor + 25 extra ( shards @ Shotgunroom )
-  3. You are next to Battlestuit
-  4. You can get easier and safe the Rail
-  5. You have totally 3 Weapons there ( RL, Rail, Shotgun )
-  6. You can make pressure through 3 Ways
-
-Â 
-Red is subdivided into 4 positions.Â  Make them safe and hold them !
-Â 
-
-Â 
-1.
-A lot of times an enemy spawns, no one is there, enemy gets RL, then the Red
-Armor, and your advantage is getting smaller, of course it is a extreme lucky
-situation but it happens, believe me !
-Â 
-Â 
-
-2.
-This position can be quick an grap the Red Armor ,help Shotgun or Railgun or
-killing people who comes through the Jumppad.
-Â 
-Â 
-
-
-3.
-A really important position for the Red Area,
-especially before theÂ  Battlesuit comes.
-Make sure you have a RL ! Enemy could try
-to get to Battlesuit through this position. But besides that, u have 25 extra
-Armor points+ 1 more Weapons ! Keep it safe !!!If your Team is stacked and your
-on shotgun, make some pressure at quad, try to nerf the opponents, grab them
-the yellow armor or shaft, even its only 1 time BUT as always not by hook or by
-crook. Sometimes every frag / kill can be important but donâ€™t chase the
-enemy, keep your position.
-4.
-The 4th position is Rail, make it Safe and dont let the enemy get a Railgun !
-Â 
-Â 
-Â 
-Â 
-Â 
-Â 
-
-Second in the RA Room ? and Lost ?
-Â 
-Well, go in defense positions and wait forÂ  the next powerup if Red is totally
-Lost !
-It is not that bad tho losing Red, its only bad wasting frags. Keep them and
-get back to Red with the next Powerup.
-
-1.
-Standard Positions always 2 at Quad. 1 has to check always shaft/ya area incase
-enemy comes from there. The otherone has to check the shotgun door.
-Note: QUAD has always priority with saving !!!
-2.
-Â Two guys are going down to the 2nd RL.
-Note: If enemy has a Railgun think about it that you can get railed easy if you
-jump up and enemy is railing from shotgun.
-3.
-Try to get the Railgun or at least doing
-pressure there.
-Railgun and shaft are 2 really powerfull
-weapons to defend the Quadroom.
-Â 
-Â 
-Â 
-Â 
-Battlesuit time !
-Â 
-You have Red safe ? Get BS !
-The one who has the most armor is going to get Battlesuit !!!
-So decide it already as soon as possible.
-Â 
-This is the best way to safe BS
-1.
-Safe the Railgun ! Why ?Â Â 
-If Enemy is there and they have a Rail they can do easily pressure to BS and in
-the worst case they shoot the BSrunner down in the void.
-2.
-Enemy can go through the Shotgun and trying to get BS through the whole ! Its
-not easy to defend it from the whole but it is much easier to grab the BS. And
-another point is aswellâ€¦ the guy who takes BS needs protection for not
-loosing any armor und health.
-3.
-This position is aswell important, safe it before BS comes ! Enemy can come
-from lower RL and try to get BS. Make sure you have a RL. Incase Rail is lost
-you can spam Rockets to Rail. Make sure you have a RL. Incase Rail is lost you
-can spam Rockets to Rail.
-This position is aswell important, safe it before BS comes !
-4.
-Â Â Â  But safe it like that ! This is the fastest
-Â Â Â  and easiest way to get there !
-Â Â Â  A lot of people make the mistake going
-Â Â Â  through that whole and jumping over
-Â Â Â  the void ! Why ?! The way is longer
-Â Â Â  and u have the risk that enemy shoot
-Â Â Â  you in the void.
-5.
-Â Â Â  This is the way the Poweruprunner is going
-Â Â Â  to BS ! NEVER goes down 10 sec earlier..
-Â Â Â  only in time with bs so get bs timing.
-Â Â Â  Note: Incase one enemy get killed and
-Â Â Â  spawns red, YOU DONâ€™T CARE !
-Â Â Â  Try to protect yourself if possible to get BS
-Â Â Â  with most armor and health.
-Â 
-Â 
-Â 
-
-Quad time !
-1.
-This is the way you are going to safe Quad.
-3 People needs to be at Quad.
-1 has to check always the shaft / YA area.
-Watch out for Railers who doing pressure from the shotgun.
-Get the Grenadelauncher and try to pull them back
-
-Â 
-2.
-This is the Spy ! Check out if enemy coming to Quad through Rail or BS, you
-donâ€™t need to fight if its senseless, go better then and join your team at
-quad.
-Write_a_comment
-
-7 Comments
-
-
-* #1
-  nyshak (Wednesday, 22 September 2010 23:46)
-  You might want to add that, on dm14, the BS is the stronger of the two
-  powerups and why: many corners, easy to engage the quad runner in melee
-  distance.
-* #2
-  smuf (Thursday, 23 September 2010 15:58)
-  Nice post! I think many people will highly appreciate this.
-
-  Keeping in mind nyshak's comment I would like to request one more thing
-  though, and that was a) can make a real difference on that map and b) you are
-  famous for, dk -- sync secondary items with a delayed quad, challenge BS with
-  three people etc and what to do when you have Quad while the enemy BS blocks
-  the shotgun. That's where imo most players do mistakes.
-  Keep up the good work! ;)
-* #3
-  thx (Thursday, 23 September 2010 22:30)
-  thx for your explanations, really interesting stuff
-  wouldnt it be useful to add the spawn points of the map ?
-
-  Same as smuf, Keep up the good work :)
-* #4
-  InDaStreet (Friday, 24 September 2010 01:32)
-  Great job! People really need this. Cant wait for your next tactic guide.
-* #5
-  Vhite (Saturday, 25 September 2010 12:03)
-  Thanks dk! Simple and most powerful. I like this style - looking forward to
-  next tactics.
-* #6
-  mrcool (Sunday, 26 September 2010 09:45)
-  awesome ! waiting for the next guide !
-  screenshots looks shit :-)
-  but really nice work
-* #7
-  TK (Tuesday, 28 September 2010 01:12)
-  thx for the work, that kind of guide is exactly what i missed as tdm
-  newcomer!!!
-*  loading
-
-
-* Introduction
-* Discipline
-* Presence
-* Opponent_Awareness/Enemy_Status.
-* Resource_Timing
-* Aim
-* Motivation,_Attitude
-* Resolve.
-* DM14_-_Grim_Dungeons
-* OSPDM5_-_Deep_Inside
-* Unity's_personal_guide
-
-Â 
-Â 
-Â 
-Â 
-Â 
-
-
-          _free_counters_
-
-
-Imprint | _druckversion_print_version | Sitemap
- Jimdo_logout | Edit
+** 2.
+   This is the spy position! Check out if enemies are coming to Quad through Rail or
+   BS, you don't need to fight them if it is senseless, better join
+   your team at quad then.

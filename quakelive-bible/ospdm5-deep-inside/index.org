@@ -1,169 +1,98 @@
+#+TITLE:    Deep Inside - OSPDM5
+#+AUTHOR:    
+#+EMAIL:     
+#+DATE:      
+#+DESCRIPTION: Deep Inside - OSPDM5 Strategy Guide by JCK
+#+KEYWORDS: 
+#+LANGUAGE:  en
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:nil skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+#+XSLT: 
+
+* OSPDM5 Strategy Guide /by JCK/
+  Very well-arranged map. As with many others, timing and coordination are
+  what counts most here.
+  There is only one powerup on this map so every unused opportunity to
+  grab the Quad may lead a team it to its doom.
+  It can be played in different ways, I'll try to show some tips and tricks :-) 
+
+* Items Available
+** Weapons
+- 2 Shotgun (SG)
+- 1 Railgun (RG)
+- 1 Grenade Launcher (GL)
+- 1 Lightning Gun (LG)
+- 2 Rocket Launcher (RL)
+- 1 Plasma Gun (PG)
+  
+** Armors
+- 1 Red Armor (RA)
+- 2 Yellow Armor (YA)
+- 7 Shards
+- 1 Mega Health (MH)
+- 1 50Health
+- 13 25 Health
 
 
+** Powerups
+- Quad Damage
 
+* Railgun
 
+It is good to check for railgun and megahealth (the person who checks it
+should only collect shards and mega-health), the enemies are vulnerable easily
+and they cannot endanger you at a distance. I advise you to go for the mega-
+health few seconds in advance and look around so there is no enemy hidden
+there. Shortly before Quad-time it is recommended that two players secure the
+railgun as shown on the picture below.
 
-
-
-
-
-
-
-
-* Wall
-* Quakelive_Bible
-
-
-
-Deep Inside - OSPDM5
-
-Deep Inside - OSPDM5 Strategy Guide *by JCK
-
-Â 
-Very legible map, similarly as by the others, timing and coordinationÂ  are in
-focus in the first place.
-There is only one power-up in it so every unused may lead a team which ignores
-it to its doom.
-It can be played in different ways, I `ll try to show some tips and tricks :-
-)Â 
-
-Items Available
-Â 
-Weapons
-
-
-* 2 Shotgun (SG)
-* 1 Railgun ( RG )
-* 1 Grenade Launcher (GL)
-* 1 Lightning Gun (LG)
-* 2 Rocket Launcher (RL)
-* 1 Plasma Gun (PG)
-
-
-Armors
-
-
-* 1 Red Armor (RA)
-* 2 Yellow Armor (YA)
-* 7 Shards
-* 1 Mega Health (MH)
-* 1 50Health
-* 13 25 Health
-
-
-Powerups
-Â 
+You must pay attention to sound, especially sound which comes from the
+jumppad  - and you have to secure the entrance into which the enemies from RA may jump into.
 
 * Quad
+ 
+Immediately before the Quad spawns, it is ideal that your team takes the positions shown on the picture
+below, but this isn't always possible. 
 
-Â 
-Quad - Railgun
-Â 
-RG
+** Positions
+- Position 1 is a RG boy; he looks after the RG for his colleagues so they can have
+it and shoots at distance to secure the railgun and megahealth.
+ 
+- Position 2 is quite difficult; the difficulty depends on how you
+  play it. An important task is to always know the exact time of RA
+  and MH and maybe even YA. Shortly before Quad the one on position 2 secures the
+  teammate on position 1.
+ 
+- Position 3 secures the jumppad and the entrance from YA, apart from
+  this, he checks the situation in the central room and makes his
+timings for both YA or the MH.
+ 
+- Position 4 gives a helping hand to number two and three; it depends on where the bulk
+of enemies is.
 
-It is good to check your rail-gun and mega-health (The person who checks it
-should only collect shards and mega-health), the enemies are vulnerable easily
-and they cannot endanger you at aÂ distance. IÂ advise you to go for the mega-
-health few seconds in advance and look around if there is no enemy hidden
-there. In front of Quad-damage it is recommended when two players secure the
-rail-gun as it is shown on the picture below. We pay attention to
-sound especially â€“ which comes from jump-padÂ  - and we secure
-the entrance into which the enemies from RA may jump to.
+ 
+* WTF? QUAD LOST! CENTRAL & RA ROOM
 
-Quad
-Â 
-It is ideal when the group of players in front of Quad would be in positions as
-it is shown on the picture below, but it isn`t always possibleJ.
-Positions
-
-No 1 is a RG boy â€“ he looks after the RG for his colleagues so they can have
-it and shoot at distance â€“ to secure the rail-gun and mega-health. Position
-Â 
-No 2 is quite difficult, the difficulty depends upon how you play it. His task
-is to always have in grasp when there will be RA and MH; eventually YA,Â  in
-front of Quad he secures No1. The given person secures the jump-pad and
-entrance from YA at position
-Â 
-No 3; apart from it, he checks the situation in central room and makes his
-timings for 2 YA or mega. Position
-Â 
-No 4 gives a hand to number two and three â€“ it depends on where is the bulk
-of enemies.
-
-Â 
-WTF? QUAD LOST ! CENTRAL & RA ROOM
-
-It is usual in ospdm5 that the position at rail-gun is often exchanged â€“
-therefore it is important to keep your head cool and start from nothing â€“
-what is RA in this case. Pay attention mainly to LG and RA; eventually, you try
-to get some time MH. You can attack the quad directly with RAÂ  - but carefully
-â€“ as normally you have nothing available to shower the enemy at distance!
-Â 
-Â 
-Â 
-Â 
-Â 
-
-The picture above depicts the attack on quad when you don`t have the upper hand
-at Quad -Rail-gun. Position No 1 takes care of that the enemy doesn`tÂ  eat RA
+It is usual in ospdm5 that the position at railgun is frequently exchanged.
+Therefore, it is important to keep your head cool and start from
+scratch what is in the RA room in this case. Pay attention mainly to
+LG and RA; eventually, you can try and get MH sometimes. You can attack the quad directly with RA  - but
+be very careful as normally you have nothing available to spam the enemy at distance!
+ 
+The picture above depicts the attack on Quad when you don't have the upper hand
+at Quad / Railgun. Position No 1 takes care of that the enemy doesn`t  eat RA
 or he eventually makes timing for LG (it is good to know the timing of mega as
-well). He attacks straight through RA or carefully through jump-pad.Â  Position
+well). He attacks straight through RA or carefully through jump-pad.  Position
 No 2 secures the central room and the situation at quad. No 4 prevailingly
 attacks through YA or directly from central room. Position No 3 is quite
-complicated â€“ as you look after what is going on in the lower part of the
+complicated as you look after what is going on in the lower part of the
 map. Usually he tries to get mega under control; it is good when No 1 gives a
 hand at it. He tries to get on quad through the jump-pad or RG. The last
 position No 4 must have in grasp over
 those two YA, he attacks mainly through the upper YA
 (it is usually effective in combination with a rocket-jumpJ) along with No 2.
-Â 
-Â 
-Â 
-
-Write_a_comment
-
-3 Comments
-
-
-* #1
-  Peanie (Monday, 27 September 2010 20:22)
-  would be cool if you could explain it more.
-  it is nice and thank your for this guide but some more informations would be
-  cool }-)
-  what is if red rail and quad is lost ?
-  when is it good to attack and doing pressure, to rail/quad or/and to red ?
-* #2
-  K1LL3R (Monday, 27 September 2010 22:51)
-  Thank you ! Thats awesome !
-* #3
-  JCK (Tuesday, 28 September 2010 13:03)
-  peanie: situations can be random, depends if u play patient/slow game or
-  stable rush @ quad (if u know that enmy is low @ rail f.e etc.). RA room is
-  good starting position to regain control when is every corner lost :P.
-*  loading
-
-
-* Introduction
-* Discipline
-* Presence
-* Opponent_Awareness/Enemy_Status.
-* Resource_Timing
-* Aim
-* Motivation,_Attitude
-* Resolve.
-* DM14_-_Grim_Dungeons
-* OSPDM5_-_Deep_Inside
-* Unity's_personal_guide
-
-Â 
-Â 
-Â 
-Â 
-Â 
-
-
-          _free_counters_
-
-
-Imprint | _druckversion_print_version | Sitemap
- Jimdo_logout | Edit
