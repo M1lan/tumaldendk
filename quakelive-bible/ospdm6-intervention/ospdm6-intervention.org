@@ -1,0 +1,130 @@
+* Intervention - OSPDM6 Strategy Guide *by dash
+** About the map
+This one is my favorite. It used to be a popular TDM map in the
+vq3/OSP era, and since id software added the map to QL, I'm pretty
+sure it still has a future. The map is designed by Ágúst "DruZli"
+Atlason and is suited for both 2v2 and 4v4.
+
+** Items available
+- Red Armour (RA)
+- Mega Health (MH)
+- Yellow Armour (YA @ RG)
+- Yellow Armour (YA @ PG)
+
+** Weapons available 
+- Railgun (RG)
+- Rocket Launcher (RL)
+- Shotgun @ Upper side (SG @ RA)
+- Shotgun @ Lower side (SG @ RG)
+- Lightning Gun (LG)
+- Plasma Gun (PG)
+- Grenade Launcher (GL)
+
+** Powerups available
+ - Quaddamage
+
+** Movements
+First of all you have to master some movements on the map, before
+getting into tactics.
+- Balcony to RA: (Allows you to save time or steal RA from the enemy.)
+- RA to corridor: (Most important move, I'll getting into it later.)
+- YA to RG: (Allows you to cut your way to the RG, and steal it from
+  the enemy.)
+- RG to YA: (Similar jump as YA to RG. If you start the game in the
+  good way to steal and surprise.)  Jesus room, you can have both RG and
+  YA with this jump, it is also a
+- RG to Balcony: (It allows you to avoid jumppad and not being an easy
+  target.)
+- Balcony to corridor: (Not that important, but could be useful.)
+
+Here is a short video of these jumps:
+YouTube-Video
+ 
+** Areas to control
+ 
+*** The RA Room
+The main goal in this map is to control the Red Armour room. If your
+team has the control, one player of the team (RED ZONE) should always
+stay close to the RA. The best position you can take with a Railgun in
+your hand is the Upper SG, aiming mostly for the RL exit. You can also
+shoot the corridor spawner from this location.
+ 
+Another player (GREEN ZONE) has to keep the balcony safe from the
+Railgun side, steal railguns and see that the enemy team is having a
+hard time to take advantage of the outer Yellow Armour and Railgun.
+Enemies using the jumppad will also be an easy target for this player.
+Because of the huge open area, RG is also quite handy here.
+ 
+The 3rd player (PURPLE ZONE) should camp the Rocket Launcher,- he has
+the best position to support all of his teammates if needed.
+ 
+The 4th player (BLUE ZONE) has to steal the Mega Healths and keep the
+jumppad in front of the Red safe. His role is very important as he has
+to time MHs very precisely because the MH area is hard to defend. MH
+is an item that is easy to steal, even if two or three enemies are
+around there.
+
+The safest way to get the MH is the corridor next to the Quad room,-
+you don't have to cross any open area if you choose that way. The
+best position he can take is next to the jumppad, behind the wall. He
+can surprise enemies from there and can easily hit targets using the jumppad.
+
+
+** Outside
+
+If your team is not in control of RA, you have to stack up from
+the yellows, MH and RG and try to take back control. These are the
+items you have to work with. RG and MH have the biggest priority in
+this situation. The RG player shouldn't rush the RA room, since he has 4
+great camp spots (Jesus room, Lower Hallways, Upper Hallways, Quad
+room corridor) to prod enemies with his railgun and take advantage
+over at the MH. The best position to take is the Lower Hallway (Next to
+YA). You can keep your eyes on two enemy positions from there.
+ 
+From the Quad room corridor you can damage the RA player, without
+being an easy target. Stairs under the Red Armour is another good way
+to sneak up. In most situations jumppads make you an easy frag, but if
+your team is about to rush an area, you have to use it. In case you
+aren't able to take control over RG, try to work with SG!
+Intervention is a Shotgun-heavy map, it has some smaller corridors,
+and there are two SGs available on the map on two opposite sides, so
+it's a deadly weapon in the right hands. Never underestimate the Shotgun
+in TDM!
+ 
+Quad room
+ 
+On Intervention you have to get in position for Quad at least 20-25 seconds
+before it spawns. Quad room is easy to defend, so don't let the enemy
+take it before your team can do so! One player always has to stay at
+balcony where he has to prevent enemies rushing to Quad from there. That room also gives you the best opportunity to
+frag the Quad player. If the RA spawns before Quad, one player should wait for
+that item, then use the corridor to arrive at and take Quad.
+
+From the Quad room corridor you can put some pressure upon the RA
+player without being an easy target. Stairs under the Red Armour is another good way
+to sneak up on the enemy. In most situations jumppads make you an easy frag, but if your
+team is about to rush an area, you have to use them. In case you aren't able to
+take control over RG, try to work with SG! Intervention is a Shotgun heavy map,
+it has some narrow corridors. There are two SGs available on two
+opposite sides of  the map and it's a deadly weapon in good hands. Never
+underestimate the Shotgun in TDM!
+
+(Always let the player with most HP/AP take the Quad if there is an opportunity to
+defend the powerup for him!). That Corridor is also the best way to steal a powerup,
+even if it's pretty risky and hard to make your way through there. In most
+cases people don't count on you rushing in from there. You can use those pillars next to
+Quad, to hide behind, but you are still easy to frag there, because there is
+no room to dodge. Arriving at Quad from Quad jumppad is suicide, so don't do
+that! If you are out of time and next to that jumppad, spam some grenades, or
+hide behind that offset and try to surprise the Quad player, that's the best
+you can do. (Of course in some cases, you can take Quad from there, but that's
+not very common.)
+
+If you spawn at YA-Plasma room right before Quad, don't rush it! Try to set
+up a trap, let the Yellow Armour there, the Quad player will probably
+go there first and if he sees the YA, he won't count on anyone hiding there, you can surprise him
+with Plasmagun since it's hard to miss in that tight corridor. With the
+powerup make your way to the YA-Plasma room first and take the YA if it's
+available, then take MH, if you have a time on it. Only after that try to
+take back the RA room. If mega spawns before YA, go there first, then RA. In
+case you are already stacked, just make a great Quadrun ;).
