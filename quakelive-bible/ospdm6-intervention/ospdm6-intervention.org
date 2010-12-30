@@ -69,7 +69,6 @@ you don't have to cross any open area if you choose that way. The
 best position he can take is next to the jumppad, behind the wall. He
 can surprise enemies from there and can easily hit targets using the jumppad.
 
-
 ** Outside
 
 If your team is not in control of RA, you have to stack up from

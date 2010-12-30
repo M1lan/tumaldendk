@@ -1,11 +1,12 @@
 * Retribution a.k.a. dm7
 ** About the map
 May be the most played TDM map next to dm6 since the dawn of
-quake. This map was already implanted in the beta and demo version of
-Q3. It was nearly 12 years ago, some of us joined the arena of dm7, to
-fight for glory : ). In the QL era, the map lost of it’s popularity,
-due to some major changes, but since RG got it’s old position back,
-I’m sure dm7 still has a future. The map fits for 2v2, and 4v4 also.
+Quake. This map was already in the beta and demo versions of Q3 and
+nearly 12 years ago, some of us joined the arena of dm7, to fight for
+glory :). Nowadays, in the QL era, the map lost a lot of it's
+popularity due to some major changes, but since RG got it's old
+position back I'm sure dm7 still has a future. The map fits for 2v2,
+and 4v4 likewise.
 
 ** Items available
 - Red Armor (RA)
@@ -25,47 +26,53 @@ I’m sure dm7 still has a future. The map fits for 2v2, and 4v4 also.
   
 *** RA room
 Nothing could be simpler than dm7 tactics. The main goal of the map is
-to control the Red Armour zone. The team with more RA and RG pickups
+to control the Red Armor zone. The team with more RA and RG pickups
 is a probable winner. So in a nutshell all you have to do is rush the
 RA room. Naturally there are other tactics, like early fallback and
 preparing for quad, which I saw played pretty well by Team Sweden or
-Prozac, but never really worked out in the long run, so I won’t get
-into it. So, like I said you have to rush RED, even with Machinegun,
+Prozac, but never really worked out in the long run, so I won't go
+into them. So, like I said you have to rush RA, even with Machinegun,
 waiting for items like RL, YA or MH is a suicide for your
-teammates. If you have a sharp timing on any item you spawned next to,
-you can wait a few seconds for it, but no more!  The more unite rush
-is the more effective. It requires high level voice communications,
-since the drawfriend command it became easier, but never really tested
-it, because dm7 wasn’t played competitively in QL. Sometimes it could
-feels like mindless rushing with MG, but never fall back and let your
-teammates attack without you. It pays after a few tries. If your team
-has the control, let the RG player stack with RED first, he should
-stay in the „GREEN ZONE” RG player has to track all entrances, most
-commons are middle and MH side. with Shotgun in your hand stay in the
-„ORANGE ZONE”, keep close to the entrances, to take advantage of close
-range shotgun hits. I rather choose the mega side, because more
-enemies’ll attack from there, since that is the other keyroom of the
-map. You can use offsets for a well functioning trap. If your team
-managed to pickup atleast 2 Railguns and 2 Red Armors, one player
-should go and check for a YA, to keep the enemy way more underfed
-(This move could counter back sometimes).
+teammates. If you have an exact timing on any item you spawned next
+to, you can wait a few seconds for it, but no more!  The more united
+your team rushes, the more effective you are. This requires a high
+level of (voice) communication, which became easier since the
+introduction of the drawfriend command, but I never really tested it,
+because dm7 wasn't played competitively in QL yet. 
+
+Sometimes this strategy on dm7 could feel like mindless rushing with
+MG, but you can never fall back and let your teammates attack without
+you. It does pay after a few tries. If your team has the control, let
+the RG player take the RA first, he should stay in the „GREEN
+ZONE”. This RG player has to track all entrances, most commons are
+middle and MH side. With a Shotgun in your hand, stay in the „ORANGE
+ZONE” and keep close to the entrances to take advantage of close range
+shotgun hits. I rather choose the mega side, because more enemies will
+attack from that room which is the other key room of the map. You can
+use offsets for a well functioning trap. If your team managed to
+pickup at least 2 Railguns and 2 Red Armors, one player should go and
+check for a YA, to keep the enemy even more underfed (be careful, this
+move could backfire sometimes).
    
 *** Mega room:
-The other key of the map is the MegaHealth. There is no any other map,
-where sharp timing is this important, since MH is any easy pickup from
-TelePort. If you are out of RA room, and want to get mega, you always
-have to count with an enemy striking from Tele. The best position to
-take is next to one of those pillars, stairs are also good, but you
-risk the danger of a stab in the back. Be cautious, not to cross
-Portal’s visibility (r_fastsky 0 is the correct value, to see through
-Teleport. If you play with 1, set a bind for „toggle r_fastsky”
-visibility is very important here.)  Since the portal player has the
-advantage of a telefrag, it’s still another reason to control that
-area. If your team has two players for MH, you could easily defeat the
-surprising enemy player, but this situation normally only happens at
-last megas before quads. From the RA zone, one player has to take
-TelePort, another has to support him from the Mega-RA hallway, the
-best way to do this, is to prod with a Railgun.
+The other key of the map is the Mega Health. There is no any other
+map, where sharp timing is this important, since MH is any easy pickup
+from the Teleport. If you are out of RA room and want to get MH, you
+always have to count on an enemy striking from Tele. The best position
+to take is next to one of those pillars, stairs are also good, but you
+risk the danger of a stab in the back. Be cautious, not to cross the
+Portal's field of visibility if you are on the MH side! Also, set your
+config that you can peek through the portal; r_fastsky 0 is the
+correct value to achieve that. If you play with fastsky 1, get a bind
+for "toggle r_fastsky" it is very essential here on dm7. Another
+reason to control that area is that the portal player has the
+advantage of an easy Telefrag.
+
+If your team has two players for MH, you could easily defeat the
+surprised enemy player, but this situation normally only happens at
+last MHs before quads. From the RA zone, one player has to take the
+Teleport while another has to support him from the Mega-RA hallway,
+the best way to do this is to prod with a Railgun.
 
 RA team:
 Player 1:
@@ -76,70 +83,76 @@ Or:
 b)
 
 *** Quad room:
-Dm7 doesn’t require much preparation for quad, but it’s neither „last
-second strike” type. On a 3 scale, it’s 2, if dm6 is 3 and dm14
-is 1. Anyway it’s better to go there a 10 seconds earlier. Use the
-corners for surprise, next to entrances, it works out in most
-situations. One or even two players have to keep eye on middle
-corridor, better if he stays close and spam rockets or take advantage
-of close range SG.  There are two main roles on the map, which I
-already mentioned before: 1 - RA team 2 - RA rushing team.
+Dm7 doesn't require much preparation for Quad but it's neither the
+"last second strike" type. Compared to other tdm maps, on a scale of
+3, dm7 scores second with dm6 being the third and dm14 the first where
+it really pays off to grab Quad precisely when it spawns.  Anyways
+it's better to go there 10 seconds earlier and use the corners next to
+entrances for a surprise attack, it works out in most situations. One
+or even two players have to keep an eye on the middle corridor, better
+if he stays close and spam rockets or take advantage of close range
+SG.
 
-1) RA team has to spread 3 different ways, better if 2 players choose
-mega way, probably 2 enemy players’ll try to take last mega before
-quad, so it necessitates more support there. If you are on low health,
-and got RG in your hand, don’t rush! Try to support your mates with it
-from long range. The best position for it is under SG, you have a good
-sight on Q, and it’s out of the „war zone”. If you are out of time,
-try to make a last second strike on quad player from middle corridor,
-if you are lucky you can take him down, and instantly get back to RA
-room, to hit spawners and rushers.
+There are two main roles on the map, which I already mentioned before:
+1 - RA team 2 - RA rushing team.
 
-There is an important tactical move, which I don’t really see perform
-a lot. It requires the right circumstances and wise thinking, but if
-it works, you can keep pressure and deepen (or narrow) the gap between
-teams, for the next two minutes. Your team has to be heavily stacked,
-to be sure you’ll able to pick up next powerup, in this case try to
-delay RG and RA. Count 5-10 seconds on quad, because if your team
-takes Quad, that means the underdog’ll spawn, and somebody’ll spawn in
-RA room and he’ll take RA and RG for sure, which puts Quad player and
-RA room in danger, so don’t let this door open for them!
+1) The RA team has to spread 3 different ways, better if 2 players
+choose mega way, probably 2 enemy players will try to take the last
+mega before Quad, so it necessitates more support there. If you are on
+low health, and got RG in your hand, don't rush! Try to support your
+mates with it from long range. The best position for it is under SG,
+you have a good sight on Quad, and it’s out of the „war zone”. If you
+are out of time, try to make a last second strike on the Quad player
+coming from middle corridor, if you are lucky you can take him down,
+and instantly get back to RA room to hit spawners and rushers.
 
-2) If you failed to take back control over RED and RAIL, stop pushing
-30-40 seconds before quad. Grab last yellow and MH before quad, to
+There is an important tactical move, which I don't really see
+performed a lot. It requires the right circumstances and wise
+thinking, but if it works you can keep pressure and deepen (or narrow)
+the gap between teams for the next two minutes. Your team has to be
+heavily stacked, to be sure you'll able to pick up the next Quad, in
+this case try to delay RG and RA. Count 5-10 seconds on Quad, because
+if your team takes Quad, that means the underdog will spawn, and
+somebody will spawn in RA room and he'll take RA and RG for sure,
+which puts Quad player and control of RA room in danger, so don't let
+this door open for them!
+
+2) If you failed to take back control over RA and RAIL, stop pushing
+30-40 seconds before quad. Grab the last yellow and MH before quad to
 make your team more equally stacked. One player is enough for YA,
-because that item is out of the danger zone. He’ll take RL/SG and
+because that item is out of the danger zone. He'll take RL/SG and
 manoeuvre for position, he should stay close to middle corridor, spam
-rockets and take advantage of closerange SG, to prevent enemies and
-spawners rushing from there. 2 players have to take care of mega, or
-portal player, who stacked it. Player who stacked mega, have to
-prepare himself for taking quad, take shards also! Others use the
-corners next to doors for surprise, or try to support middle corridor
+rockets and take advantage of close range SG, to prevent enemies and
+spawners rushing in from there. 2 players have to take care of mega, or
+the portal player, who grabbed it. The player who took mega has to
+prepare himself for taking Quad and take shards too! Others use the
+corners next to the doors for surprise, or try to support middle corridor
 player with the Plasmagun, to cut that way off for sure.
 
-Anyway the delaying tactic won’t work between most circumstances, so
-there’ll be two basic roles again, but now the roles turned short,
+Anyway the delaying tactics won't work in most circumstances, so
+there will be two basic roles again, but now the roles turned short,
 because the rushing team finds themselves in better position with the
-Quad. Quad player have to wait for either YA or MH, then rush
-RA. Don’t ever wait more than 20 seconds with rushing, you take the
+Quad. Quad players have to wait for either YA or MH, then rush
+RA. Don't ever wait more than 20 seconds with rushing, you take the
 risk of facing two RG players, if you do.
 
 There are two things, this team has to take care of: Coordinate your
-team, and rush together like a unit.  Don’t let the Quad player go in
-first! Opposing team’ll try to take him down the most, so let them
-waste first railshots on baits!
+team, and rush together like a unit.  Don't let the Quad player go in
+first! The Opposing team will try to take him down the most, so let them
+waste first Railgun shots on baits!
 
 What is to be done, in the other team?
-- The RA team has to communicate, and inform their RG player, which
-  way the Quad player’ll probably choose. If Quad killed you at mega
-  or YA, he presumably won’t change his way, so it gives you the
-  opportunity to spot the right entrance.
-- RG player has to wait for Quad player a few seconds, don’t attack
+- The RA team has to communicate and inform their RG player, which
+  way the Quad player will probably choose. If Quad killed you at Mega
+  or YA, he presumably won't change his way, so it gives you the
+  opportunity to cover the right entrance.
+- RG player has to wait for Quad player a few seconds, don't attack
   first rushers while they keep in long distance. Go for the Quad
   frag!
 
-So that’s all in a nutshell. I hope you read something new, none the
-less dm7 is the oldest TDM map.
+So that's all in a nutshell. I hope you've learned something new from
+this short article about how to play Quake Live TDM on this oldest of
+all TDM maps.
 
 
 
